@@ -23,5 +23,5 @@
 <div style="display: inline_block"><br/>
         <img aling="center" alt="Java" height="40" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
         <img aling="center" alt="bootstrap" height="40" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-        <img aling="center" alt="" height="40" src="">
+        <img aling="center" alt="django" height="40" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
 </div>
