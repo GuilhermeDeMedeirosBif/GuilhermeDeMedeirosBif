@@ -8,8 +8,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDeMedeirosBif&layout=compact&theme=radical)
 
-### Tecnologias que eu uso no dia-a-dia:
+### Tecnologias que eu uso no cotidiano:
 <div style="display: inline_block"><br/>
         <img aling="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img aling="center" alt="Python" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+### Tecnologias e frameworks que tenho interesse em aprender no futuro:
+<div style="display: inline_block"><br/>
+        <img aling="center" alt=""
 </div>
