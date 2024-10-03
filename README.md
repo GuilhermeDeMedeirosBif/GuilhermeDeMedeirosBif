@@ -16,6 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="Godot logo"  /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/mysql_original.svg" height="30" alt="MySql logo"  /> 
 </div>
 
 ###
