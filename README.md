@@ -1,5 +1,5 @@
 
-<h2 align="left">Olá! Meu nome é Guilherme de Medeiros Bif, mas pode me chamar de Just.</h2>
+<h2 align="left">Olá! Meu nome é Guilherme de Medeiros Bif.</h2>
 
 ###
 
