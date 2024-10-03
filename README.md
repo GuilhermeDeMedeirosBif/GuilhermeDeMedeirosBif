@@ -10,7 +10,7 @@
 
 ###
 <h1>Sistema operacional utilizado:</h1>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows-original.svg" height="50" alt="windows logo"  />
+<img src="https://camo.githubusercontent.com/00b43e96e45231a05c92a71df4db676f1fe1370f6bee5528eac8b3fc1fc2f8de/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f77696e646f7773382f77696e646f7773382d6f726967696e616c2e737667" height="50" alt="windows logo"  />
 
 <h1>Linguagens utilizadas:</h1>
 <div align="left">
