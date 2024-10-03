@@ -16,6 +16,7 @@
 
 ### Tecnologias e frameworks que tenho interesse em aprender no futuro:
 <div style="display: inline_block"><br/>
-        <img aling="center" alt="Java" height="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
-        <img aling="center" alt="bootstrap" height="50" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+        <img aling="center" alt="Java" height="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+        <img aling="center" alt="bootstrap" height="50" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+        <img aling="center" alt="" height="50" src="">
 </div>
