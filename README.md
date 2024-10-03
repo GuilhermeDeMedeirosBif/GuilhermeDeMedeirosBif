@@ -15,7 +15,8 @@
         <img aling="center" alt="JavaScript" height="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
         <img aling="center" alt="Python" height="40" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
         <img aling="center" alt="Python" height="40" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-        <img aling="center" alt="" height="40" src="https://img.shields.io/badge/Godot-F7DF1E?style=for-the-badge&logo=godot&logoColor=black"
+        <img aling="center" alt="" height="40" src="https://img.shields.io/badge/Godot-F7DF1E?style=for-the-badge&logo=godot&logoColor=black">
+        ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 </div>
 
 ### Tecnologias e frameworks que tenho interesse em aprender no futuro:
