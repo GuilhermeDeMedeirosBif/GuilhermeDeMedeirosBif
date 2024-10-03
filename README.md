@@ -9,7 +9,8 @@
 </div>
 
 ###
-
+<h1>Sistema operacional utilizado:</h1>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcta.ifrs.edu.br%2Fcomo-configurar-o-windows-para-usuarios-com-baixa-visao%2F&psig=AOvVaw1sPHsieNslraW2eiTlDsn4&ust=1728003323109000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPDcxJiA8YgDFQAAAAAdAAAAABAE" height="50" alt="windows logo"  />
 ###
 <h1>Linguagens utilizadas:</h1>
 <div align="left">
