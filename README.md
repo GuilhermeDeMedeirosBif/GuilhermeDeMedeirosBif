@@ -16,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="Godot logo"  /> 
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Fbr%2Ficone-gratis%2Fmysql_5968313&psig=AOvVaw0FvQEvok7n1zkE34N90uiq&ust=1728002827803000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIDbi6z-8IgDFQAAAAAdAAAAABAR" height="30" alt="sql logo"  /> 
+  <img src="https://camo.githubusercontent.com/8b690f4dff81513c7425f3b8f6e66b34a1dea43e22562037eeb5449d18571c89/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" height="30" alt="mysql logo"  /> 
 </div>
 
 ###
