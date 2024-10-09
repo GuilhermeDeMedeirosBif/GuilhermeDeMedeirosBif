@@ -21,5 +21,4 @@
 <div style="display: inline_block"><br/>
         <img aling="center" alt="Java" height="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png">
         <img aling="center" alt="spring-boot" height="50" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png">
-        <img aling="center" alt="django" height="50" src="https://github.com/marwin1991/profile-technology-icons/assets/62091613/9bf5650b-e534-4eae-8a26-8379d076f3b4">
-</div>
+ </div>
