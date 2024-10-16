@@ -6,7 +6,7 @@
 
 ![GuilhermeDeMedeirosBif's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeDeMedeirosBif&show_icons=true&theme=radical)
 
-![Top Langs]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDeMedeirosBif&layout=compact&theme=radical)
 
 ### Tecnologias que eu utilizo:
 <div style="display: inline_block"><br/>
