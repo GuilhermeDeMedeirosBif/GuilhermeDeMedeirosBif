@@ -31,9 +31,11 @@
 ###
 
 <div align="center">
+        
  ![GuilhermeDeMedeirosBif's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeDeMedeirosBif&show_icons=true&theme=radical)
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeDeMedeirosBif&layout=compact&theme=radical)
+ 
 </div>
 
 ###
